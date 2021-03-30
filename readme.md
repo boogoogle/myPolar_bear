@@ -28,3 +28,6 @@ pip3 install pandas
 python3 manage.py parse_docx  # deal with country data
 python3 manage.py parse_docx_series  # deal with series data
 ```
+
+
+test deploy with Heroku -1
